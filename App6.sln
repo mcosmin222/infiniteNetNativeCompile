@@ -1,0 +1,69 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App6", "App6\App6.csproj", "{6E54BC16-4BA4-43C8-8BC7-36AB8FC51B7C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestComponent", "TestComponent\TestComponent.vcxproj", "{9876E010-942B-4D7F-8336-A0CC55992778}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E54BC16-4BA4-43C8-8BC7-36AB8FC51B7C}.Debug|ARM.ActiveCfg = Debug|ARM
+		{6E54BC16-4BA4-43C8-8BC7-36AB8FC51B7C}.Debug|ARM.Build.0 = Debug|ARM
+		{6E54BC16-4BA4-43C8-8BC7-36AB8FC51B7C}.Debug|ARM.Deploy.0 = Debug|ARM
+		{6E54BC16-4BA4-43C8-8BC7-36AB8FC51B7C}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{6E54BC16-4BA4-43C8-8BC7-36AB8FC51B7C}.Debug|ARM64.Build.0 = Debug|ARM64
+		{6E54BC16-4BA4-43C8-8BC7-36AB8FC51B7C}.Debug|ARM64.Deploy.0 = Debug|ARM64
+		{6E54BC16-4BA4-43C8-8BC7-36AB8FC51B7C}.Debug|x64.ActiveCfg = Debug|x64
+		{6E54BC16-4BA4-43C8-8BC7-36AB8FC51B7C}.Debug|x64.Build.0 = Debug|x64
+		{6E54BC16-4BA4-43C8-8BC7-36AB8FC51B7C}.Debug|x64.Deploy.0 = Debug|x64
+		{6E54BC16-4BA4-43C8-8BC7-36AB8FC51B7C}.Debug|x86.ActiveCfg = Debug|x86
+		{6E54BC16-4BA4-43C8-8BC7-36AB8FC51B7C}.Debug|x86.Build.0 = Debug|x86
+		{6E54BC16-4BA4-43C8-8BC7-36AB8FC51B7C}.Debug|x86.Deploy.0 = Debug|x86
+		{6E54BC16-4BA4-43C8-8BC7-36AB8FC51B7C}.Release|ARM.ActiveCfg = Release|ARM
+		{6E54BC16-4BA4-43C8-8BC7-36AB8FC51B7C}.Release|ARM.Build.0 = Release|ARM
+		{6E54BC16-4BA4-43C8-8BC7-36AB8FC51B7C}.Release|ARM.Deploy.0 = Release|ARM
+		{6E54BC16-4BA4-43C8-8BC7-36AB8FC51B7C}.Release|ARM64.ActiveCfg = Release|ARM64
+		{6E54BC16-4BA4-43C8-8BC7-36AB8FC51B7C}.Release|ARM64.Build.0 = Release|ARM64
+		{6E54BC16-4BA4-43C8-8BC7-36AB8FC51B7C}.Release|ARM64.Deploy.0 = Release|ARM64
+		{6E54BC16-4BA4-43C8-8BC7-36AB8FC51B7C}.Release|x64.ActiveCfg = Release|x64
+		{6E54BC16-4BA4-43C8-8BC7-36AB8FC51B7C}.Release|x64.Build.0 = Release|x64
+		{6E54BC16-4BA4-43C8-8BC7-36AB8FC51B7C}.Release|x64.Deploy.0 = Release|x64
+		{6E54BC16-4BA4-43C8-8BC7-36AB8FC51B7C}.Release|x86.ActiveCfg = Release|x86
+		{6E54BC16-4BA4-43C8-8BC7-36AB8FC51B7C}.Release|x86.Build.0 = Release|x86
+		{6E54BC16-4BA4-43C8-8BC7-36AB8FC51B7C}.Release|x86.Deploy.0 = Release|x86
+		{9876E010-942B-4D7F-8336-A0CC55992778}.Debug|ARM.ActiveCfg = Debug|ARM
+		{9876E010-942B-4D7F-8336-A0CC55992778}.Debug|ARM.Build.0 = Debug|ARM
+		{9876E010-942B-4D7F-8336-A0CC55992778}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{9876E010-942B-4D7F-8336-A0CC55992778}.Debug|ARM64.Build.0 = Debug|ARM64
+		{9876E010-942B-4D7F-8336-A0CC55992778}.Debug|x64.ActiveCfg = Debug|x64
+		{9876E010-942B-4D7F-8336-A0CC55992778}.Debug|x64.Build.0 = Debug|x64
+		{9876E010-942B-4D7F-8336-A0CC55992778}.Debug|x86.ActiveCfg = Debug|Win32
+		{9876E010-942B-4D7F-8336-A0CC55992778}.Debug|x86.Build.0 = Debug|Win32
+		{9876E010-942B-4D7F-8336-A0CC55992778}.Release|ARM.ActiveCfg = Release|ARM
+		{9876E010-942B-4D7F-8336-A0CC55992778}.Release|ARM.Build.0 = Release|ARM
+		{9876E010-942B-4D7F-8336-A0CC55992778}.Release|ARM64.ActiveCfg = Release|ARM64
+		{9876E010-942B-4D7F-8336-A0CC55992778}.Release|ARM64.Build.0 = Release|ARM64
+		{9876E010-942B-4D7F-8336-A0CC55992778}.Release|x64.ActiveCfg = Release|x64
+		{9876E010-942B-4D7F-8336-A0CC55992778}.Release|x64.Build.0 = Release|x64
+		{9876E010-942B-4D7F-8336-A0CC55992778}.Release|x86.ActiveCfg = Release|Win32
+		{9876E010-942B-4D7F-8336-A0CC55992778}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C37ABD8A-66AB-4C30-A1F0-A3998D774483}
+	EndGlobalSection
+EndGlobal
