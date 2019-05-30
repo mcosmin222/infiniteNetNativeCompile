@@ -1,5 +1,5 @@
 ﻿#include "pch.h"
-#include "Class1.h"
+#include "KeyStringValuePair.h"
 
 using namespace TestComponent;
 using namespace Platform;
